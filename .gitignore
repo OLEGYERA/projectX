@@ -1,0 +1,8 @@
+node_modules/
+
+.DS_Store
+.idea/codeStyles/codeStyleConfig.xml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/project_x.iml
+.idea/workspace.xml
